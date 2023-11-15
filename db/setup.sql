@@ -1,0 +1,2 @@
+DROP DATABASE IF EXISTS hr_database;
+CREATE DATABASE hr_database;
